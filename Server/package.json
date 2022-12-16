@@ -1,0 +1,11 @@
+{
+  "name": "todolist-api",
+  "version": "1.0.0",
+  "description": "Simple TodoList API using MongoDB",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IMTR0J4N",
+  "license": "ISC"
+}
